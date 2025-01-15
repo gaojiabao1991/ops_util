@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='ops-util',
-    version='0.1.0',
+    version='0.1.1',
     packages=['ops_util'],
     install_requires=[],
     author='JiaBao Gao',

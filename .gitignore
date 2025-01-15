@@ -1,0 +1,19 @@
+/.idea/
+/.project
+/.classpath
+/.settings/
+**/bin/default/
+
+# macOS
+.DS_Store
+
+# Python
+.pydevproject
+__pycache__
+
+# Emacs backup
+*~
+
+/build/
+/dist/
+*.egg-info/
